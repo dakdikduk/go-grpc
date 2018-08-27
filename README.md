@@ -1,2 +1,2 @@
 # go-grpc
-Simple implementation of grpc in golang
+Simple example of handler using grpc in golang
